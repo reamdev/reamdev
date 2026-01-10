@@ -33,5 +33,5 @@ I am driven by a need to understand how software interacts with hardware, focusi
 ---
 
 ### Contact
-* <a href="https://www.linkedin.com/in/reamdev" target="_blank">LinkedIn</a>
-* [Email](mailto:ream_tp@outlook.com)
+* <a href="https://www.linkedin.com/in/reamdev" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+* <a href="https://www.instagram.com/reamdev/" target="_blank" rel="noopener noreferrer">Instagram</a>
