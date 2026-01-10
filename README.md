@@ -1,18 +1,37 @@
-## Hi!! I'm Elias Arriaga 👋
+## Hi!! I'm Rafael
 
-I am a web developer with knowledge in programming languages such as JavaScript, TypeScript, Python and Go. As well as knowledge in libraries like ReactJS and NodeJS.
+### Systems Engineering Student | Software Developer
+Based in Peru.
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reamdev&layout=compact&langs_count=8&theme=tokyonight" />
-</div>
+I have 2.5 years of experience building web applications, but I am shifting my focus to the fundamentals. My goal is to move from **consuming frameworks** to **understanding and creating technology**.
 
-## Languages
+I am driven by a need to understand how software interacts with hardware, focusing on efficiency, memory management, and algorithmic complexity.
 
-<div>
-  <img width="50px" height="50px" alt="HTML" title="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-  <img width="50px" height="50px" alt="CSS" title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-  <img width="50px" height="50px" alt="JavaScript" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img width="50px" height="50px" alt="TypeScript" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img width="50px" height="50px" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img width="50px" height="50px" alt="Go" title="Go" src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" />
-</div>
+---
+
+### Technical Architecture
+
+**Current Deep Dive (Computer Science):**
+* **Languages:** C++ (Manual Memory Management, STL internals), Python.
+* **Core Concepts:** Data Structures, Algorithms, Complexity Analysis ($O$ notation), Operating Systems.
+* **Goal:** Building technology from first principles and solving low-level engineering problems.
+
+**Professional Background (2.5 Years):**
+* **Backend:** PHP, SQL Optimization (MySQL/MariaDB/SQL Server).
+* **Frontend:** TypeScript, React ecosystem.
+* **Methodology:** Production-grade development, CI/CD basics, Version Control.
+
+---
+
+### Activity & Learning
+
+**What I am working on:**
+* **Deconstructing CS:** Solving algorithmic challenges (LeetCode/Codeforces) to sharpen logic and efficiency.
+* **Systems Programming:** Moving down the stack to understand compilation, linking, and memory execution.
+* **Mathematics:** Applied Calculus and Algebra for computational modeling.
+
+---
+
+### Contact
+* [LinkedIn](https://www.linkedin.com/in/reamdev)
+* [Email](ream_tp@outlook.com)
