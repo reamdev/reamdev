@@ -18,7 +18,7 @@ I am driven by a need to understand how software interacts with hardware, focusi
 
 **Professional Background (2.5 Years):**
 * **Backend:** PHP, SQL Optimization (MySQL/MariaDB/SQL Server).
-* **Frontend:** TypeScript, React ecosystem.
+* **Frontend:** JavaScript/TypeScript.
 * **Methodology:** Production-grade development, CI/CD basics, Version Control.
 
 ---
