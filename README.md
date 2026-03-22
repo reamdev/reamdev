@@ -1,4 +1,4 @@
-# Rafael M. | Computer Science & Engineering Researcher
+# Rafael Arriaga | Computer Science & Engineering Researcher
 **Focus:** Low-Level Systems | Memory Optimization | Algorithmic Complexity
 
 > "Transitioning from high-level software abstraction to first-principles engineering. My goal is to deconstruct the interface between hardware and software to build high-performance technology."
