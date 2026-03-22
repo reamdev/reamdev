@@ -1,37 +1,38 @@
-## Hi!! I'm Rafael
+# Rafael M. | Computer Science & Engineering Researcher
+**Focus:** Low-Level Systems | Memory Optimization | Algorithmic Complexity
 
-### Systems Engineering Student | Software Developer
-Based in Peru.
-
-I have 2.5 years of experience building web applications, but I am shifting my focus to the fundamentals. My goal is to move from **consuming frameworks** to **understanding and creating technology**.
-
-I am driven by a need to understand how software interacts with hardware, focusing on efficiency, memory management, and algorithmic complexity.
+> "Transitioning from high-level software abstraction to first-principles engineering. My goal is to deconstruct the interface between hardware and software to build high-performance technology."
 
 ---
 
-### Technical Architecture
-
-**Current Deep Dive (Computer Science):**
-* **Languages:** C++ (Manual Memory Management, STL internals), Python.
-* **Core Concepts:** Data Structures, Algorithms, Complexity Analysis ($O$ notation), Operating Systems.
-* **Goal:** Building technology from first principles and solving low-level engineering problems.
-
-**Professional Background (2.5 Years):**
-* **Backend:** PHP, SQL Optimization (MySQL/MariaDB/SQL Server).
-* **Frontend:** JavaScript/TypeScript.
-* **Methodology:** Production-grade development, CI/CD basics, Version Control.
+### 🔬 Core Research & Technical Interests
+* **Systems Programming:** Advanced C++ (Manual Memory Management, RAII, STL Internals).
+* **Algorithm Engineering:** Complexity analysis ($O, \Omega, \Theta$), Dynamic Programming, and Graph Theory.
+* **Computer Architecture:** Understanding CPU pipelining, cache hierarchy, and OS kernels.
+* **Mathematical Modeling:** Applied Calculus and Linear Algebra for computational efficiency.
 
 ---
 
-### Activity & Learning
+<!-- ### 🏗️ Selected Technical Projects (Low-Level focus)
+* **[Project Name 1]: Custom Memory Allocator (C++)** *Developed a pool-based memory allocator to bypass standard `malloc` overhead, optimizing cache locality and reducing fragmentation.*
+* **[Project Name 2]: High-Performance Data Structures** *Implementation of thread-safe AVL Trees and Hash Maps from scratch, focusing on $O(log n)$ guarantees and lock-free concurrency.*
+* **[Project Name 3]: Algorithmic Research Lab** *A collection of +100 competitive programming challenges (LeetCode/Codeforces) documented with formal mathematical proofs of optimality.*
+---
+-->
 
-**What I am working on:**
-* **Deconstructing CS:** Solving algorithmic challenges (LeetCode/Codeforces) to sharpen logic and efficiency.
-* **Systems Programming:** Moving down the stack to understand compilation, linking, and memory execution.
-* **Mathematics:** Applied Calculus and Algebra for computational modeling.
+### 💼 Professional Trajectory (2.5+ Years)
+* **Backend Engineering:** Scalable systems using PHP/SQL (Optimization of complex queries and CI/CD pipelines).
+* **Frontend Systems:** Architecture-driven development with TypeScript.
+* **Engineering Philosophy:** Production-grade code, focusing on stability, scalability, and technical debt reduction.
 
 ---
 
-### Contact
-* <a href="https://www.linkedin.com/in/reamdev" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-* <a href="https://www.instagram.com/reamdev/" target="_blank" rel="noopener noreferrer">Instagram</a>
+### 📊 Current Deep Dive (2026 Roadmap)
+- [ ] **Operating Systems:** Developing a toy microkernel to understand context switching.
+- [ ] **Compilers:** Building a Lexer/Parser for a domain-specific language in C++.
+- [ ] **IELTS Preparation:** Aiming for C1 proficiency to bridge global research gaps.
+
+---
+
+### 🌐 Connect & Collaborate
+[LinkedIn](https://www.linkedin.com/in/reamdev/) <!-- | [Professional Portfolio](URL) --> | [Email](mailto:ream_tp@outlook.com)
